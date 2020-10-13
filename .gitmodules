@@ -1,0 +1,9 @@
+[submodule "study_NLW_3_app"]
+	path = study_NLW_3_app
+	url = git@github.com:KesleyDavid/study_NLW_3_app.git
+[submodule "study_NLW_3_web"]
+	path = study_NLW_3_web
+	url = git@github.com:KesleyDavid/study_NLW_3_web.git
+[submodule "study_NLW_3_mob"]
+	path = study_NLW_3_mob
+	url = git@github.com:KesleyDavid/study_NLW_3_mob.git
